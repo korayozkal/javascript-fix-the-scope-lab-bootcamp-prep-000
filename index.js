@@ -23,7 +23,12 @@ var funkyFunction = function() {
 var theFunk = funkyFunction() 
 
 function funkyFunction(){
+var = 
 return 'FUNKY!'
 }
 
 
+function yourAnimal() {
+ var animal = 'cat'
+  return animal
+}
