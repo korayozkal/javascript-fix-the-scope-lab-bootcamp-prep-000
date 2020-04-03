@@ -20,12 +20,7 @@ var funkyFunction = function() {
   }
 }
 
-var theFunk = 'FUNKY!'
-
-}
+var theFunk = 'funkyFunction()' 
 
 
-function yourAnimal() {
- var animal = 'cat'
-  return animal
-}
+
